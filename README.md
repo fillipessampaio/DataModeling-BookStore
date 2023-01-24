@@ -20,10 +20,11 @@ This image was made using software:
 
 [brModelo](https://www.brmodeloweb.com/lang/pt-br/index.html)
 
-
-
 ## 2. Logic Model
+<p align="center"> <img src="BookStoreModel-Logic.png" width=100% > </p>
+This image was made using software:
 
+[brModelo](https://www.brmodeloweb.com/lang/pt-br/index.html)
 
 
 ## 3. Physical Model
